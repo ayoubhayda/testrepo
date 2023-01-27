@@ -15,3 +15,7 @@ h1{
 button:hover{
     background-color: brown;
 }
+body{
+    background-color: black;
+    color: white;
+}
