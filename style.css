@@ -1,0 +1,21 @@
+button{
+    background-color: rgb(0, 93, 6);
+    color: white;
+    width: 200px;
+    cursor: pointer;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+button:hover{
+    background-color: brown;
+}
+body{
+    background-color: black;
+    color: white;
+}
