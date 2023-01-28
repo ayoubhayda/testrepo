@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: white;
+    width: 200px;
+    cursor: pointer;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+button:hover{
+    background-color: rgb(3, 30, 81);
+}
