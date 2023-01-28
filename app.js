@@ -1,5 +1,5 @@
 let btn = document.getElementById("btn");
 
-btn.onclick = () =>{
-    alert("hello ayoub")
-}
+btn.addEventListener("click",() =>{
+    alert("hello my king")
+}) 
